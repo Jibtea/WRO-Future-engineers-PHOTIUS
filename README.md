@@ -6,7 +6,7 @@ Engineering materials
 ## Content
 PHOTIUS TEAM
 ====
-In our team have 3 M A J I K member. 
+In our team have 3 M A J I K member. Can you guess who is the mechanic in our team. We don’t know what answers in your head. But the answer is the girl at the right corner of official photo. Her name is Eve. Then at the middle of office photo and who is sleep in funny photo is Kazu. Kazu is programmer in our team. The last majik member	is Ida. He is the second programmer. 
 * `t-photos` 
 
 offical photo
