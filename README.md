@@ -1,7 +1,8 @@
 Engineering materials
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+     This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+    Our mannequins are designed with rear two-wheel drive.  By choosing to use the control board as the main raspberry pi board, but even if we use the raspberry pi board, we still have the charm of lego by building a robot.  with gear system  and designed by Lego  with a combination of design using acrylic  To lock the board and strengthen it to make it more efficient.  And it is designed with a 3D printer to connect between the lego main frame.  and our motor  in the part of the sensor  We used 3 ultrasonic sensors around the robot to check the object and its field distance.  In the traffic part We have used the raspberry pi camera for maximum performance.
 
 ## Content
 
@@ -10,23 +11,4 @@ funny photo
 
 offical photo
 
-##Introduction
-This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers.
-
-* `v-photos` contains 6 photos of the robot
-
-
-* `video` contains the video.md file with the link to a video where driving demonstration exists
-You should find it
-
-* `schemes` contains one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
-
-
-* `src` contains code of control software for all components which were programmed to participate in the competition
-
-
-* `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
-
-
-* `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
