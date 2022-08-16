@@ -12,5 +12,6 @@ offical photo
 ![IMG_3096](https://user-images.githubusercontent.com/107110466/184897442-80e21e87-8632-4de6-bf20-1cc4ec7d2764.jpeg)
 
 funny photo
+![IMG_3093](https://user-images.githubusercontent.com/107110466/184897962-79a17ae1-ed1b-4e61-9a54-6c3c49e304fb.jpeg)
 
 
